@@ -25,7 +25,7 @@ A hybrid Transformer-CNN segmentation model that combines a Swin-Tiny encoder (I
 |-------|------|------|-----|------|-------|
 | Buda et al. (U-Net) | 2019 | 0.8200 | — | — | patient-level |
 | Santosh et al. (ResUNet) | 2023 | 0.9056 | 0.8293 | — | patient-level |
-| UNet++ + EfficientNet | 2024 | 0.9180 | — | — | patient-level |
+| UNet++ + EfficientNet | 2024 | 0.9180 | — | — | Not Mentioned |
 | VGG19-UNet | 2025 | 0.9679 | 0.9378 | — | slice-level ⚠ |
 | HART-UNet | 2024 | 0.9700 | — | — | BraTS→Kaggle OOD |
 | **Enhanced Swin-UNETR (ours)** | **2026** | **0.9162** | **0.8879** | **5.33 mm** | **patient-level** |
