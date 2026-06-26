@@ -1,0 +1,43 @@
+# Original notebook and scratch files
+brain_tumor_colab.ipynb
+extracted_code_cells.txt
+inference_demo.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Checkpoints and model weights
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+*.zip
+*.tif
+*.csv
+
+# Outputs
+outputs/
+*.png.tmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
